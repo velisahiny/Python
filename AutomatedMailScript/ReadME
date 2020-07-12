@@ -1,0 +1,3 @@
+This is a script to send e-mails to unrelated receivers which they don't need to know its a mass e-mail. For instance, mass job applications.
+In order to use you need to enable access for less secure apps for your gmail account via this link  https://myaccount.google.com/lesssecureapps
+I got the main source code from https://stackoverflow.com/a/8243031 (Kevin Buchs) and edited.
